@@ -1,0 +1,285 @@
+barreduras
+agitador
+NULL	agitatee
+acusar
+perfidia
+agitado
+ilegal
+disensión
+chapelgoer
+aguantar
+abandonada
+desafiante
+antipatriótico
+deslealtad
+desobediencia
+desobediente
+desobedecer
+descortesía
+irrespetuoso
+NULL	dissentaneous
+desafío
+hereje
+ilegalidad
+ilegalmente
+insubordinación
+criminalizar
+NULL	illegalization
+pérfido
+amotinado
+compensar
+herejía
+disensión
+alzamiento
+alzamiento
+NULL	disrespectable
+agitar
+insubordinado
+amotinamiento
+alienar
+contestatario
+NULL	rebels
+amotinamiento
+agente_doble
+NULL	dissention
+agitación
+irritante
+NULL	agitatrices
+NULL	agitatrix
+revolucionario
+apóstata
+perfidia
+confidente
+desertor
+desafío
+desafiantemente
+NULL	defiantness
+abandono
+NULL	disloyalness
+NULL	disobediency
+NULL	disobediently
+NULL	disobeyal
+NULL	disrespectability
+NULL	disrespectfully
+descortesía
+NULL	disrespective
+NULL	dissental
+contestatario
+divisivo
+NULL	dissentive
+NULL	hereticalness
+NULL	illegalisation
+amotinado
+anárquico
+acracia
+amotinamiento
+apenar
+desafiantemente
+NULL	rebelsome
+actividad_subversiva
+actividad_subversiva
+amotinado
+abundante
+NULL	riotry
+NULL	seditiousness
+sedición
+NULL	subverbally
+NULL	subversively
+traición
+revolucionario
+NULL	traitorism
+infielmente
+desleal
+NULL	treacher
+alevosía
+NULL	treacherer
+infielmente
+NULL	treacherousness
+NULL	treachersome
+desleal
+alta_traición
+NULL	treasonableness
+infielmente
+traidor
+NULL	treasonistic
+NULL	treasonistically
+alta_traición
+NULL	treasonously
+NULL	treasonousness
+desleal
+NULL	hereticate
+apostasía
+NULL	disobeisance
+disconforme
+amonestar
+sedición
+NULL	subverse
+NULL	agitatable
+NULL	agitatedly
+NULL	agitates
+NULL	agitatest
+NULL	agitateth
+irritante
+NULL	agitational
+NULL	agitations
+NULL	agitators
+NULL	agitatos
+NULL	agitatours
+NULL	betray'd
+NULL	betrayable
+NULL	betrayals
+NULL	betrayed
+NULL	betrayedst
+NULL	betrayers
+NULL	betrayest
+NULL	betrayeth
+NULL	betraying
+NULL	betrayingly
+NULL	betrayings
+NULL	betrayment
+NULL	betrayments
+NULL	betrays
+NULL	defiances
+NULL	defyer
+NULL	defying
+NULL	defyingly
+abandono
+abandono
+NULL	disloyally
+NULL	disloyalties
+NULL	disobediences
+NULL	disobediencies
+NULL	disobeisances
+NULL	disobeyals
+NULL	disobeyed
+NULL	disobeyer
+NULL	disobeyers
+NULL	disobeyest
+NULL	disobeyeth
+desobediencia_civil
+NULL	disobeys
+NULL	disrespected
+NULL	disrespecter
+NULL	disrespecters
+NULL	disrespecting
+NULL	disrespects
+NULL	dissentals
+NULL	dissentany
+NULL	dissentation
+NULL	dissentations
+NULL	dissented
+NULL	dissenterism
+NULL	dissenterisms
+contestatario
+NULL	dissentest
+NULL	dissenteth
+NULL	dissentients
+disconforme
+NULL	dissentingly
+NULL	dissentions
+NULL	dissentiously
+NULL	heretically
+NULL	hereticaster
+NULL	hereticasters
+NULL	hereticated
+NULL	hereticates
+NULL	hereticating
+NULL	hereticide
+NULL	hereticides
+NULL	hereticize
+NULL	hereticized
+NULL	hereticizes
+NULL	hereticizing
+NULL	hereticks
+herejía
+NULL	illegalisations
+NULL	illegalised
+NULL	illegalises
+NULL	illegalising
+NULL	illegalism
+NULL	illegalisms
+NULL	illegalities
+NULL	illegalizations
+criminalizar
+NULL	illegalized
+NULL	illegalizes
+NULL	illegalizing
+NULL	illegalness
+NULL	illegals
+NULL	insubordinately
+NULL	insubordinations
+crimen
+NULL	lawlessnesses
+NULL	rebeldom
+NULL	rebeled
+NULL	rebelest
+NULL	rebeleth
+NULL	rebeling
+alzamiento
+NULL	rebeller
+NULL	rebellers
+NULL	rebelleth
+NULL	rebelling
+alzamiento
+NULL	rebellos
+NULL	rebelos
+amotinamiento
+amotinamiento
+NULL	riotest
+NULL	rioteth
+amotinamiento
+NULL	riotings
+NULL	riotise
+escandalosamente
+NULL	riotousness
+NULL	riotousnesses
+NULL	seditionaries
+NULL	seditionary
+sedición
+NULL	seditionists
+NULL	seditions
+NULL	seditiously
+NULL	subversed
+NULL	subverses
+NULL	subversing
+NULL	subversionary
+NULL	subversions
+actividad_subversiva
+NULL	subversivism
+NULL	subverst
+NULL	subvertable
+NULL	subverted
+NULL	subverters
+NULL	subvertest
+NULL	subverteth
+NULL	subvertible
+NULL	subverting
+NULL	subvertingly
+NULL	subvertisement
+NULL	subvertisements
+NULL	subvertising
+NULL	subvertor
+NULL	subvertors
+NULL	traitored
+NULL	traitoress
+NULL	traitoresses
+NULL	traitorest
+NULL	traitoreth
+NULL	traitorhood
+NULL	traitories
+NULL	traitoring
+NULL	traitorisms
+NULL	traitorlike
+NULL	traitorly
+traición
+NULL	traitorship
+NULL	traitory
+NULL	treacheries
+NULL	treachers
+NULL	treasonists
+alta_traición
+NULL	agitatour
+NULL	heretick
+NULL	rebello
+NULL	rebelo
+NULL	disrespectworthy

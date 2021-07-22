@@ -1,0 +1,203 @@
+desenfado
+abandono
+adversaria
+NULL	enemyship
+de_forma_individual
+perfidia
+expatriado
+individualidad
+abandonada
+alguien
+antipatriótico
+deslealtad
+ajeno
+inmigración
+extranjera
+NULL	individuals
+pérfido
+NULL	enemies
+terrorista
+terrorismo
+inmigración
+réprobo
+burlar
+agente_de_inteligencia
+agente_doble
+NULL	deceived
+terrorismo
+abandonada
+NULL	abandonedly
+NULL	abandonedness
+NULL	abandonee
+NULL	abandoner
+NULL	abandonware
+individualista
+inmigración
+apóstata
+perfidia
+confidente
+NULL	deceivability
+NULL	deceivable
+NULL	deceivably
+engañosamente
+NULL	deceiving
+individualización
+abandono
+NULL	disloyalness
+NULL	foreignise
+NULL	foreignization
+NULL	foreignly
+inmigración
+NULL	immigrator
+individualización
+individualizar
+NULL	individualistically
+individualismo
+identidad
+individualizar
+NULL	individualizer
+aislar
+NULL	terroristic
+NULL	traitorism
+infielmente
+desleal
+NULL	treacher
+alevosía
+NULL	treacherer
+infielmente
+NULL	treacherousness
+NULL	treachersome
+desleal
+alta_traición
+NULL	treasonableness
+infielmente
+traidor
+NULL	treasonistic
+NULL	treasonistically
+alta_traición
+NULL	treasonously
+NULL	treasonousness
+NULL	abandoning
+cortar
+apostasía
+embaucador
+apóstata
+NULL	abandonable
+NULL	abandonedst
+NULL	abandonees
+NULL	abandoners
+NULL	abandonest
+NULL	abandoneth
+NULL	abandonings
+NULL	abandonly
+NULL	abandonments
+NULL	abandonness
+NULL	abandons
+NULL	abandonwares
+NULL	betray'd
+NULL	betrayable
+NULL	betrayals
+NULL	betrayed
+NULL	betrayedst
+NULL	betrayers
+NULL	betrayest
+NULL	betrayeth
+NULL	betraying
+NULL	betrayingly
+NULL	betrayings
+NULL	betrayment
+NULL	betrayments
+NULL	betrays
+NULL	deceiv'd
+NULL	deceivableness
+estafador
+NULL	deceivers
+NULL	deceives
+NULL	deceivest
+NULL	deceiveth
+NULL	deceivings
+NULL	deceiv’d
+abandono
+abandono
+NULL	disloyally
+NULL	disloyalties
+NULL	enemedia
+NULL	enemyes
+NULL	enemyhood
+NULL	enemyhoods
+NULL	enemylike
+extranjera
+NULL	foreignising
+NULL	foreignism
+NULL	foreignisms
+NULL	foreignize
+NULL	foreignized
+NULL	foreignizes
+NULL	foreignizing
+extrañeza
+NULL	foreignnesses
+NULL	foreigns
+inmigración
+inmigración
+NULL	immigratest
+NULL	immigrateth
+inmigración
+inmigración
+NULL	immigrators
+inmigración
+NULL	individualisations
+individualizado
+NULL	individualises
+NULL	individualising
+NULL	individualisms
+individualismo
+NULL	individualities
+NULL	individualizable
+NULL	individualizations
+individualizado
+NULL	individualizers
+NULL	individualizes
+NULL	individualizing
+NULL	individualls
+NULL	individualness
+rechazado
+NULL	jiltee
+NULL	jiltees
+NULL	jilter
+NULL	jilters
+NULL	jilting
+NULL	jiltings
+NULL	jilts
+acto_de_terrorismo
+NULL	terrorisations
+aterrar
+NULL	terrorised
+NULL	terrorisers
+NULL	terrorises
+NULL	terrorising
+NULL	terrorisms
+NULL	terroristical
+NULL	terroristically
+NULL	traitored
+NULL	traitoress
+NULL	traitoresses
+NULL	traitorest
+NULL	traitoreth
+NULL	traitorhood
+NULL	traitories
+NULL	traitoring
+NULL	traitorisms
+NULL	traitorlike
+NULL	traitorly
+traición
+NULL	traitorship
+NULL	traitory
+NULL	treacheries
+NULL	treachers
+NULL	treasonists
+alta_traición
+NULL	enemye
+NULL	individuall
+NULL	terroriser
+NULL	enemydom
+NULL	abandonner
